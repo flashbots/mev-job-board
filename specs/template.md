@@ -8,7 +8,7 @@ If applicable please give the address of a governance contract that users should
 Low / moderate / high
 
 ### Is this a one-off opportunity or is it reocurring?
-Sometimes MEV is created by specific governance parameter tweaks, but sometimes it is more structural or reoccuring. Please state which of the two this opportunity is.
+Sometimes MEV is created by specific governance parameter tweaks, but sometimes it is more structural or reoccuring. Please state which of the two this opportunity is, and if applicable, the timing the MEV will be available.
 
 ### Steps to capture MEV
 List the steps that need to be taken to capture MEV from your protocol. As an example:
