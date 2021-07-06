@@ -16,7 +16,7 @@ It should be recurring over an extended period of time, given the history with e
 1. Flashloan LINK
 2. Mint sLINK with LINK (wrappr)
 3. Swap sLINK for LINK (CRV)
-4. Use the purchased sLINK to repay the flash
+4. Use the purchased LINK to repay the flash
 5. The remainer is your profit
 
 [Here](https://etherscan.io/tx/0xb561d0e0c6f96ceeea7cec9ab486df719fdd4f4807d45a65ed87687a8e7ee731) is one arb example with the ethWrappr.
