@@ -25,7 +25,8 @@ It's typical liquidation MEV on steriods because there's isolated 20 lending poo
 ### Steps to capture MEV
 1. Get a list of Comptrollers
 2. Connect existing Compound liquidator bot to Fuse Comptroller(s)
-3. Profit?
+3. Build wrappers and unwrappers for unconventional assets like sOHM to sell and liquidate with
+4. Profit?
 
 ### Other
 If you need help don't hesitate to reach out in the Rari Capital Discord: https://discord.gg/HzUMPuT
