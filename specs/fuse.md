@@ -24,7 +24,7 @@ It's typical liquidation MEV on steriods because there's isolated 20 lending poo
 
 ### Steps to capture MEV
 1. Get a list of Comptrollers
-2. Attach existing Compound implementation to the Comptroller bot
+2. Connect existing Compound liquidator bot to Fuse Comptroller(s)
 3. Profit?
 
 ### Other
