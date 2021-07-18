@@ -28,6 +28,6 @@ It's typical liquidation MEV on steriods because there's isolated 20 lending poo
 3. Profit?
 
 ### Other
-If you need help don't hesitate to reach out in the Rari Capital discord: https://discord.gg/HzUMPuT
+If you need help don't hesitate to reach out in the Rari Capital Discord: https://discord.gg/HzUMPuT
 
 or DM me on Discord personally: `t11s#1559`
