@@ -15,8 +15,8 @@ Also, With new markets deployed on Aave protocol, opportunity for new Liquidatio
 ### Steps to capture MEV
 
   1. Flashloan debt asset from Aave
-  2. Liquidate the bad debt position in exchange for debt asset
-  3. Swap part of (or all if you want profit in debt asset) collateral asset to repay flashLoan.
+  2. Liquidate the bad debt position in exchange for collateral asset
+  3. Swap part (or all if you want profit in debt asset) of collateral asset to repay flashLoan.
   4. The remaining asset is your profit
 
 ### Other
