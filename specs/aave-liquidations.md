@@ -1,15 +1,16 @@
-## Liquidation bot unhealthy Aave protocol v2 debt position
+## Liquidate unhealthy debt positions in Aave protocol v2
 
 ### Description
 The health of the Aave Protocol is dependant on the 'health' of the loans within the system, also known as the 'health factor'. When the 'health factor' of an account's total loans is below 1, anyone can make a liquidationCall() to the LendingPool contract, paying back part of the debt owed and receiving discounted collateral in return.
 
-Any of the deposited assets that are being used as a collateral can be liquidated, when `HF < 1`.
+Any of the deposited assets that are being used as a collateral can be liquidated, when `HF < 1`. A liquidation bot monitoring the user health factor can extract profit by liquidating positions as they go underwater.
 
 ### Difficulty
 Moderate
 
 ### Is this a one-off opportunity or is it reoccurring?
-This is a re occurring MEV. With new markets deployed on Aave protocol, opportunity for new Liquidation bot arises.
+This is a re occurring MEV. As market fluctuates many debt positions go underwater and profitable to liquidate.
+Also, With new markets deployed on Aave protocol, opportunity for new Liquidation bot arises.
 
 ### Steps to capture MEV
 
