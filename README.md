@@ -11,6 +11,7 @@ Need a bot? Or looking for MEV? You've come to the right place partner 🤠
 | Rari Capital's Fuse | Liquidations |       Reoccurring      | Compound-style liquidations on multiple small lending pools     | [Link](/specs/fuse.md)                  |
 | Aave 👻             | Liquidations |       Reoccurring      | Liquidate bad debt positions to earn liquidation bonus          | [Link](/specs/aave-liquidations.md) |
 | Wild Credit             | StakingFees |       Reoccurring      | Distribute pending fees to xWILD stakers          | [Link](/specs/wild-credit.md) |
+| Gro Protocol             | LP pool |       Reoccurring      | Arbitrage between pool exchange rate & pegs to underlying stables            | [Link](/specs/gro.md) |
 
 ### Want to list your protocol's opportunity?
 
