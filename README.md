@@ -12,6 +12,7 @@ Need a bot? Or looking for MEV? You've come to the right place partner 🤠
 | Aave 👻             | Liquidations |       Reoccurring      | Liquidate bad debt positions to earn liquidation bonus          | [Link](/specs/aave-liquidations.md) |
 | Wild Credit             | StakingFees |       Reoccurring      | Distribute pending fees to xWILD stakers          | [Link](/specs/wild-credit.md) |
 | Gro Protocol             | LP pool |       Reoccurring      | Arbitrage between pool exchange rate & pegs to underlying stables            | [Link](/specs/gro.md) |
+| Gro Protocol - new            | LP pool |       Reoccurring      | Arbitrage between pool exchange rate & pegs to underlying stables - new PWRD pool            | [Link](/specs/gro_PWRD.md) |
 
 ### Want to list your protocol's opportunity?
 
