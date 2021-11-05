@@ -39,7 +39,7 @@ List the steps that need to be taken to capture MEV from your protocol. As an ex
 
 1. Monitor DPI NAV and Dex price.
 2. Swap ETH for underlyign tokens using DEX liquidity.
-3. issue DPI from based on the set issance contract ( https://etherscan.io/address/0xd8ef3cace8b4907117a45b0b125c68560532f94d ) 
+3. issue DPI from based on the set issuance contract ( https://etherscan.io/address/0xd8ef3cace8b4907117a45b0b125c68560532f94d ) 
 4. Sell DPI for ETH.
 5. The remainder is your profit
 
