@@ -34,11 +34,11 @@ This is a re occurring MEV. As market fluctuates many debt positions go underwat
       - [1inch](https://app.1inch.io/#/1/dao/pools?filter=stETH) (~ $700,000)
     - wstETH-WETH:
       - [Balancer v2](https://app.balancer.fi/?utm_source=medium&utm_medium=blog&utm_campaign=metastablepools#/pool/0x32296969ef14eb0c6d29669c550d4a0449130230000200000000000000000080) (~ $400,000,000)
+    - wstETH-DAI
+      - [SushSwap](https://app.sushi.com/swap?inputCurrency=0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0&outputCurrency=0x6B175474E89094C44Da98b954EedeAC495271d0F) (~ $40,000,000)
     - stETH-DAI:
       - [1inch](https://app.1inch.io/#/1/dao/pools?filter=stETH) (~ $10,000,000)
     - stETH-LDO:
       - [1inch](https://app.1inch.io/#/1/dao/pools?filter=stETH) (~ $7,000,000)
     - stETH-USD:
       - [FTX](https://ftx.com/trade/STETH/USD) (Daily volume ~ $80,000)
-    - wstETH-DAI
-      - [SushSwap](https://app.sushi.com/swap?inputCurrency=0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0&outputCurrency=0x6B175474E89094C44Da98b954EedeAC495271d0F)
