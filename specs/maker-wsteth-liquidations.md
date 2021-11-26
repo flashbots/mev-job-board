@@ -27,7 +27,7 @@ This is a re occurring MEV. As market fluctuates many debt positions go underwat
 ### References
   - wstETH <-> stETH
     - [wrap](https://docs.lido.fi/contracts/wsteth/#wrap) / [unwrap](https://docs.lido.fi/contracts/wsteth/#unwrap) functions of Lido contract
-    - [Official Lido web-interfact](https://stake.lido.fi/wrap)
+    - [Official Lido web-interface](https://stake.lido.fi/wrap)
   - Liquidity:
     - stETH-ETH:
       - [Curve](https://curve.fi/steth) (largest, ~ $5,000,000,000)
