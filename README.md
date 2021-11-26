@@ -14,6 +14,7 @@ Need a bot? Or looking for MEV? You've come to the right place partner 🤠
 | Gro Protocol             | LP pool |       Reoccurring      | Arbitrage between pool exchange rate & pegs to underlying stables            | [Link](/specs/gro.md) |
 | Gro Protocol - new            | LP pool |       Reoccurring      | Arbitrage between pool exchange rate & pegs to underlying stables - new PWRD pool            | [Link](/specs/gro_PWRD.md) |
 | DPI Arbitrage        | Arbitrage   | Reocurring                 | Arbitrage between the DPI index token and underlying tokens | [Link](/specs/dpi-arbitrage.md)
+| Maker wstETH liquidations        | Liquidations   | Reocurring                 | Liquidate bad wstETH debt positions on Maker to earn liquidation bonus | [Link](/specs/maker-wsteth-liquidations.md)
 
 ### Want to list your protocol's opportunity?
 
