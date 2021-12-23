@@ -1,4 +1,4 @@
-## MEV-$DPI liquidity migration - Impact arbitrage oppertunities
+## MEV-$DPI liquidity migration - Impact arbitrage opportunities
 
 ### Description
 
@@ -31,7 +31,7 @@ Moderate (??) -
 
 ### Is this a one-off opportunity or is it reoccurring?
 
-Ongoing oppertunity as DPI dex price drifts off the NAV.
+Ongoing opportunity as DPI dex price drifts off the NAV.
 
 ### Steps to capture MEV
 
