@@ -16,6 +16,8 @@ Need a bot? Or looking for MEV? You've come to the right place partner 🤠
 | DPI Arbitrage        | Arbitrage   | Reocurring                 | Arbitrage between the DPI index token and underlying tokens | [Link](/specs/dpi-arbitrage.md)
 | Maker wstETH liquidations        | Liquidations   | Reocurring                 | Liquidate bad wstETH debt positions on Maker to earn liquidation bonus | [Link](/specs/maker-wsteth-liquidations.md)
 | Vesper VUSD Arbitrage        | Arbitrage   | Reocurring                 | Arbitrage between the VUSD and USDC/DAI | [Link](/specs/vusd-arbitrage.md)
+| Liquity             | Liquidations |       Reocurring       | Liquidate undercollateralized Troves to earn liquidation bonus  | [Link](/specs/liquity-liquidations.md)  |
+
 ### Want to list your protocol's opportunity?
 
 Please fork this repo, fill out the [template](/specs/template.md), and submit a PR adding your protocol to the above table.
