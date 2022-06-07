@@ -17,6 +17,7 @@ Need a bot? Or looking for MEV? You've come to the right place partner 🤠
 | Maker wstETH liquidations        | Liquidations   | Reocurring                 | Liquidate bad wstETH debt positions on Maker to earn liquidation bonus | [Link](/specs/maker-wsteth-liquidations.md)
 | Vesper VUSD Arbitrage        | Arbitrage   | Reocurring                 | Arbitrage between the VUSD and USDC/DAI | [Link](/specs/vusd-arbitrage.md)
 | Liquity             | Liquidations |       Reocurring       | Liquidate undercollateralized Troves to earn liquidation bonus  | [Link](/specs/liquity-liquidations.md)  |
+| Unlock Protocol             | Subscription Renewal |       Reocurring       | Renew memberships of subscribed members | [Link](/specs/unlock-recurring-memberships.md)  |
 
 ### Want to list your protocol's opportunity?
 
